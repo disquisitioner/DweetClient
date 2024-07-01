@@ -1,0 +1,4 @@
+DweetClient   KEYWORD1
+setVerbose   KEYWORD2
+postPayloadJSON    KEYWORD2
+postPayloadString KEYWORD2
